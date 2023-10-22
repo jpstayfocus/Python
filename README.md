@@ -7,6 +7,8 @@ Reserved repository to list a little of my academic life
 
 <img width="1680" alt="Screenshot 2023-10-22 at 1 45 03 PM" src="https://github.com/jpstayfocus/academics/assets/110998062/c43fb4da-fa17-4065-9c29-c1daca59087a">
 
+- [roman numeral]()
+
 
 ### courses taken
 - [data structures](https://github.com/jpstayfocus/data-structures-and-algorithms)
