@@ -1,7 +1,7 @@
 # academics
 Reserved repository to list a little of my academic life
 
-- Comp Sci Major and MAth minor
+- Comp Sci Major and Math minor
 
 ### academics projects
 - [Labyrinth](https://github.com/jpstayfocus/academics/blob/main/acad-projects-code/labyrinth.py) - source code can be only tested using codeboot.
